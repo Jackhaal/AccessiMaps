@@ -103,8 +103,6 @@ L'application utilise PostgreSQL avec Prisma. Le schéma inclut :
 
 ### Connexion Administrateur
 ```
-Email : superadmin@accessilieux.fr
-Mot de passe : AccessiAdmin2024!
 ```
 
 ### URLs Principales
